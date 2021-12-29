@@ -17,5 +17,5 @@ int main() {
 
 	//uso 11n
 	printf(_("Hola mundo. Soy Belen\n"));
-	printf(_("Adios!\n"));
+	printf(_("Adios!"));
 }
